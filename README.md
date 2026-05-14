@@ -1,10 +1,10 @@
 # MediCare - Medical Appointment & Information System
 
-A client-side web application for a doctor's surgery that enables patients to book appointments, doctors to manage consultations and prescriptions, and administrators to handle user management — all built with vanilla HTML, CSS, and JavaScript using IndexedDB for persistent storage and CryptoJS for password encryption.
+A client-side web application for a doctor's surgery that enables patients to book appointments, doctors to manage consultations and prescriptions, and administrators to handle user management; all built with vanilla HTML, CSS, and JavaScript using IndexedDB for persistent storage and CryptoJS for password encryption.
 
 ## Overview
 
-MediCare is a role-based medical system with three distinct portals, each with its own permissions and functionality. The app runs entirely in the browser with no backend server required — data is fetched from hosted JSON endpoints on first load and stored locally in IndexedDB, simulating a full-stack medical records system.
+MediCare is a role-based medical system with three distinct portals, each with its own permissions and functionality. The app runs entirely in the browser with no backend server required; data is fetched from hosted JSON endpoints on first load and stored locally in IndexedDB, simulating a full-stack medical records system.
 
 **Patient Portal**: Book appointments with specific doctors, view upcoming appointments, view personal profile information, and access prescribed treatments and medical notes.
 
